@@ -1,0 +1,8 @@
+ixhl2e
+{
+	"base"		"helix"
+	"title"		"Half-Life 2 Roleplay Custom"
+	"author"	"Exo"
+	"category"	"rp"
+	"menusystem" "1"
+}
